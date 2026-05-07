@@ -1,5 +1,5 @@
-# Biodiversidade de Invertebrados Marinhos - 2025
+# Biodiversidade de Invertebrados Marinhos - 2026
 
 Disicplina de gradução em Oceanologia da FURG
 
-https://mauricio-camargo.github.io/Biodiversidade2025/
+https://mauricio-camargo.github.io/Biodiversidade2026/
