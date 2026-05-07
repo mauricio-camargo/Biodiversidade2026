@@ -1,0 +1,25 @@
+---
+title: Diversidade de invertebrados marinhos 2025
+subtitle: Prof. Mauricio Camargo
+format: html
+---
+
+## Links para os slides das aulas
+
+[Noções de Sistemática e cladística](Cladistica.html)
+
+[Introdução aos anelídeos](Intro_Annelida.html)  
+
+[Como são lindos os poliquetas](Lindos_Poliquetas.html)
+
+[Introdução aos poliquetas](Poliquetas.html)
+
+Introdução aos Bryozoa (Lophophorata)
+
+
+<!--
+[Introdução aos poliquetas](Poliquetas.html)
+
+[Introdução aos Bryozoa (Lophophorata)](Bryozoa.html)
+-->
+

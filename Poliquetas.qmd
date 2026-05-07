@@ -1,0 +1,486 @@
+---
+title: "Anelídeos Poliquetas"
+institute: "Prof. Maurício Garcia de Camargo"
+author: "Disciplina: Biodiversidade de Invertebrados Marinhos - IO-FURG"
+date: 2025-06-12
+#date: "`r Sys.Date()`" #Para funcionar tem que ter o `r Sys.Date()` em qualquer lugar do corpo (atualmente está no footer do primeiro slide)
+lang: pt-br
+title-slide-attributes:
+  data-background-color: "#6b5a59"
+format: 
+  revealjs:
+    theme: [serif, MeuCustom.scss]
+#    logo: images/furg4.png
+#    footer: "`Reprodutibilidade científica`"
+    slide-number: true
+    chalkboard: true #Muito bom para aula
+#    multiplex: false #Os alunos podem seguir com smartfone. ToDo.
+#    show-slide-number: all
+    #Veja outros temas em https://quarto.org/docs/presentations/revealjs/themes.html
+    controls: true #Não é menu. ToDo.
+#    css: [assets/sydney.css, assets/sydney-fonts.css]
+    #Sem estes css o :::box não funciona
+    css: [assets/syntax-highlight.css, assets/sydney.css, assets/custom.css, assets/sydney-fonts.css]
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## 
+
+::: r-fit-text
+<br><br><br> Revisão da filogenia dos Metazoa
+:::
+
+##  {.scrollable}
+
+![](images/Filogenia2020.png){width="800" height="800"}
+
+## Notas sobre a filogenia dos Metazoa {.scrollable .smaller}
+
+::: {.incremental}
+
+<hr>
+
+-   Esta árvore é bastante recente (2020).\
+-   `Ctenophora` e `Porifera` não são eumetazoa, e junto com `Placozoa`
+    e `Cnidaria`, não tem simetria bilateral.
+-   `Xenacoelomorpha` são acelomados que antes eram classificados como
+    `Platyhelminthes` por serem vermes chatos.\
+-   Portanto, `Platyhelminthes` eram um grupo **parafilético**.\
+-   `Xenacoelomorpha` não tem celoma nem nenhum sistema mais complexo.
+    `Platyhelminthes` tem pseudo-celoma e `Annelida` tem celoma
+    verdadeiro, e ambos são `Nephrozoa`, que possuem nefrídeos.\
+-   Em `Protostomia`, o blastóporo se torna a boca e em `Deuterostomia`
+    se torna o ânus.
+-   `Ecdysozoa` reúne os filos que fazem a ecdise.
+-   `Lophotrochozoa` reúne os filos que possuem a larva trocófora
+    (Annelida, Mollusca) ou lofóforo (Bryozoa).
+-   `Lophophorata` reúne os filos com lofóforo, que é uma estrutura em
+    forma de anel ao redor da boca que serve para alimentação.
+
+:::
+
+
+<br>
+
+## 
+
+::: r-fit-text
+<br><br> Filogenia de Annelida
+:::
+
+
+## Filogenia do Filo Annelida {.smaller}
+
+<br>
+
+Historicamente, o filo Annelida continha três classes:
+
+<br>
+
+-   Filo Annelida
+    -   Classe Polychaeta
+    -   Classe Olygochaeta
+    -   Classe Hirudinea
+
+No entanto, Polychaeta era claramente parafilético pois alguns filos
+separados tinham muita afinidade com algumas de suas famílias, e por
+isso foram incorporados aos Annelida.
+
+##  {.scrollable}
+
+![](images/FiloAnnelida.png){width="600" height="800"}
+
+## Notas sobre a filogenia dos Annelida
+
+<br>
+
+Os seguintes filos foram incorporados aos Annelida:
+
+-   Siboglinidae (antigo filo Pogonophora)
+-   Echiurida
+-   Sipunculida.
+
+<br>
+
+A classificação dos Polychaeta em `Sedentaria` e `Errantia` foi
+ressucitada.
+
+## Notas sobre a filogenia dos Annelida
+
+<br>
+
+::: {layout="[[1,1], [1,1]]"}
+
+Biologia molecular revelou que Clitellata (Oligochaeta e Hirudines) são derivados da classe Polychaeta.
+
+![](images/FiloAnnelida2.png)
+:::
+
+A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente foi perdida nos Clitellata.
+
+## 
+
+::: r-fit-text
+<br><br> Classe Polychaeta
+:::
+
+## Características e importância de Polychaeta {.smaller .scrollable}
+
+::: {.incremental}
+
+-   *Poly* = muito ; *Chaeta* = Cerdas. 
+-   Em português é poliqueta, masculino. Em espanhol é poliqueto.
+-   Sinapomorfia de Polychaeta: `Parapódios` (há 500 milhões de anos!).
+-   Enorme sucesso em ambientes marinhos bênticos. Poucos pelágicos.
+-   Quase sempre euhalinos, poucos oligohalinos e raros tolerantes a
+    água doce;
+-   10 a 12 mil espécies, do entremarés ao abissal, de mm a 3 metros
+    (*Eunice*).
+-   Muitas espécies vivem em "fumarolas" (Hydrothermal vents ou chaminés
+    hidrotermais) com temperaturas maiores que 65^o^C.
+-   Outras espécies vivem em infiltrações frias (Cold seeps).
+
+:::
+
+## Características e importância de Polychaeta {.smaller .scrollable}
+
+::: {.incremental}
+
+-   Poliquetas são numericamente dominante em muitos ambientes, chegando a 75% da produção secundária de muitos ambientes.
+-   Modo de vida livre (exceto Spionidae em ostras)
+-   Vivem isolados, exceto alguns Serpulida que são coloniais e
+    constroem estruturas conhecidas como recifes de areia.
+-   Enorme diversidade estrutural e de estilo de vida.
+-   Poliquetas apresentam a maior diferenciação da estrutura corporal
+    entre os invertebrados.
+-   Poliquetas são cultivados para alimentação em aquicultura em
+    sistemas extensivos e semi-extensivos.
+
+:::
+
+## Características e importância de Polychaeta {.smaller .scrollable}
+
+::: {.incremental}
+
+-   Algumas espécies são usadas como iscas comerciais para pesca.
+-   Poliquetas bioincrustantes em madeira e conchas de bivalves de
+    cultivo podem causar prejuízos.
+-   Servem como indicadores do grau de poluição em determinadas áreas.
+-   Papel funcional semelhante ao dos oligoquetas no ambiente terreste:
+    -   Estabilização do sedimento;
+    -   Aeração das camadas mais profundas do sedimento.
+    -   Servem de alimento para peixes e invertebrados, principalmente  nas fases juvenis.
+
+:::
+
+##  Variedade da estrutura corporal dos poliquetas {.scrollable .smaller}
+
+::: {layout="[[1,1,1], [1,1,1], [1,1,1]]"}
+![](images/Alitta-virens-4.jpeg)
+
+![](images/Branchiomma_arctica_1-combined.jpeg)
+
+![](images/hpwo292.jpg){width="220"}
+
+![](images/Myxicola_sp2.jpeg){width="250"}
+
+![](images/Polynoidae_unidentified.jpeg){width="250"}
+
+![](images/Pterosyllis_finmarchica-1.jpeg){width="250"}
+
+![](images/Serpula-uschakovi-4.jpeg){width="250"}
+
+![](images/Syllidae_unidentified.jpeg){width="220"}
+
+![](images/Terebellidae-Unidentified-combined.jpeg){width="250"}
+
+:::
+
+## Morfologia externa
+
+![](images/Poliqueta_generico.png){fig-align="center"}
+
+## Importante reconhecer
+
+<br>
+
+::: {.incremental}
+
+-   `Prostômio` = "cabeça", onde estão os olhos, as antenas e os palpos.
+-   `Peristômio` = primeiro segmento, de onde saem os cirros
+    tentaculáres.
+-   `Parapódios` = projeções laterais em cada segmento
+-   `cerdas` = setas de diversos tipos
+-   `Pigídio` = último segmento, contendo o cirro pigidial.
+-   `Brânquias` presentes nos parapódios ou prostômio.
+
+:::
+
+## Prostômio e peristômio {.smaller .scrollable}
+
+::: {layout="[[1,1,1], [1,1,1]]"}
+Errantia ![](images/Prostomio6.jpg)
+
+Errantia ![](images/Prostomio1.jpg)
+
+Probóscide ![](images/ProstomioProbo.png)
+
+Probóscide ![](images/Prostomio_Probo2.jpeg)
+
+Sedentaria ![](images/Prostomio7.jpeg)
+
+Sedentaria ![](images/Prostomio8.png)
+:::
+
+## Antenas, palpos e brânquias {.smaller .scrollable}
+
+::: {layout="[[1,1,1]]"}
+Errantia palpos ![](images/Palpos2.jpeg)
+
+Errantia brânquias ![](images/Branquias1.jpeg)
+
+Sedentaria brânquias ![](images/BranquiasEnterrado.png)
+:::
+
+![](images/PeristomioDesenhos.png)
+
+## Parapódios e cerdas {.smaller .scrollable}
+
+::: {layout="[[1,1,1], [1,1,1]]"}
+![](images/ParapodiosDesenho.png)
+
+![](images/Parapodio_Ref.png)
+
+![](images/ParapodiosCerdas.png)
+
+![](images/ParapodioLindo.png)
+
+![](images/ParapodioSetas.png)
+
+![](images/SetasTipos.png)
+:::
+
+## Ordens da Classe Polychaeta {.scrollable .smaller}
+
+::: aside
+Esta classificação havia morrido e foi ressucistada recentemente.
+:::
+
+-   **Ordem Errantia**
+
+    -   Corpo longo, segmentos semelhantes (homônomo);
+    -   Parapódios robustos para locomoção ativa por rastejamento;
+    -   Prostômio com apêndices sensoriais (palpos, antenas e cirros);
+    -   Probóscide com mandíbulas ou dentes quitinosos;
+    -   Muito ágeis e móveis. Normalmente são predadores.
+
+-   **Ordem Sedentaria**
+
+    -   Corpo dividido em duas ou mais regiões (heterônomo);
+    -   Parapódios reduzidos com pregas simples contendo placas (uncini)
+        para fixação no sedimento;
+    -   São tubículas ou escavadores fixos. Normalmente são detritívoros
+        ou suspensívoros.
+
+## Ordem Errantia {.smaller .scrollable}
+
+::: {layout="[[1,1,1], [1,1,1]]"}
+Nereididae ![](images/Alitta-virens-4.jpeg)
+
+Lumbrineridae ![](images/Lumbrineridae1.png)
+
+Phyllodocidae ![](images/Phyllodoce_citrina-combined.jpeg)
+
+Glyceridae ![](images/glyceridae.jpg)
+
+Eunicidae ![](images/Eunice1.jpg)
+
+Errantia ![](images/Errantes.png)
+:::
+
+## Ordem Sedentaria {.smaller .scrollable}
+
+::: {layout="[[1,1,1], [1,1,1]]"}
+Terebellidae ![](images/BranquiasEnterrado.png){width="280"}
+
+Filtrador genérico ![](images/TubicolaFiltrador.png){width="220"}
+
+Sabellidae ![](images/Branchiomma_arctica_1-combined.jpeg)
+
+Serpulidae ![](images/Serpula-uschakovi-4.jpeg)
+
+Owenidae ![](images/owenia_fusiformis.jpg)
+
+Sedentaria ![](images/Sedentaria.png){width="250"}
+:::
+
+## Hábitos alimentares de poliquetas
+
+<br>
+
+-   Carnívoros
+-   Comedores de depósitos seletivos
+-   Comedores de depósitos não-seletivos
+-   Filtradores
+
+## Carnívoros
+
+<br>
+
+-   Maioria dos carnívoros é da Ordem Errantia.
+-   Tendem a ser homônomos e capazes de rápidos movimentos no substrato.
+-   Usam a mandíbula para capturar pequenos invertebrados.
+-   Muitos podem também se alimentar de plantas e detritus.
+
+## Carnívoros {.scrollable}
+
+::: {layout="[[1,1], [1,1]]"}
+![](images/Predador3.png)
+
+![](images/Predador4.png){width="200"}
+
+![](images/Predador1.png)
+
+![](images/Predador2.png){width="400"}
+:::
+
+## Comedores de depósitos seletivos
+
+<br>
+
+-   Existem tanto na Ordem Errantia quanto Sedentaria.
+-   Podem efetivamente selecionar entre a matéria orgânica e o sedimento
+    antes da ingestão.
+-   Tubícolas movem os tentáculos cilados em torno do tubo e selecionam
+    a matéria orgânica.
+-   Não-tubícolas se movem varrendo o fundo com seus palpos.
+
+## Comedores de depósitos seletivos
+
+::: {layout="[[1,1]]"}
+Tubícola ![](images/BranquiasEnterrado.png)
+
+Não-tubícola ![](images/NaoTubicola.png)
+:::
+
+## Comedores de depósitos não-seletivos
+
+<br>
+
+-   Ingerem o substrato indiscriminadamente e digerem o seu conteúdo
+    orgânico.
+-   Normalmente são tubícolas Sedentaria que sugam a água e o sedimento
+    ao redor do tubo.
+-   Populações densas podem processar enormes quantidades de sedimento.
+
+## Comedores de depósitos não-seletivos
+
+![](images/NaoSeletivos.png)
+
+## Filtradores
+
+<br>
+
+-   Todos os filtradores são tubícolas Sedentaria.
+-   A estrutura utilizada para a filtração é uma corôa de tentáculos
+    peristomiais ramificados.
+-   Filtradores ativos geram a sua própria corrente.
+-   filtradores passivos dependem das correntes naturais.
+
+## Filtradores
+
+![](images/TubicolaFiltrador.png){fig-align="center"}
+
+## Aspectos da locomoção dos Polychaeta Errantia {.smaller .scrollable}
+
+-   Possuem celoma segmentado, que confere um esqueleto hidrostático. 
+-   Parapódios auxiliam no rastejamento.
+
+::: {layout="[[1,1]]"}
+
+![](images/Locomotion1.jpg)
+
+![](images/Locomotion2.jpg){width=320}
+
+:::
+
+## Aspectos da locomoção dos Polychaeta Errantia {.smaller .scrollable}
+
+<br>
+
+Filme sobre a movimentação de um Nereididae.
+
+<br>
+
+<https://www.youtube.com/watch?v=OG86cdFQ3ZA>
+
+<br>
+
+Filme sobre o plano corporal dos poliquetas errantes
+
+<br>
+
+<https://www.youtube.com/watch?v=Ja6M16bdmNw>
+
+
+## Aspectos da reprodução dos Polychaeta {.smaller}
+
+Poliquetas podem ter os sexos separados ou serem hermafroditas. Em ambos
+os casos, os gametas são carregados no celoma e liberados na coluna
+d'agua, onde ocorrerá a fecundação.
+
+Como todo Annelida, se reproduz através da larva trocófora planctônica.
+
+![](images/TrocoforaViraJuv.png){fig-align="center"}
+
+## Reprodução dos Polychaeta - `Epitoquia` {.smaller .scrollable}
+
+`Epitoquia` é uma estratégia única de reprodução de alguns poliquetas.
+
+Na época da reprodução, os indivíduos começam a se reproduzir por
+brotamento, criando clones não funcionais, que carregam os gametas.
+
+::: {layout="[[1,1],[1,1]]"}
+![](images/Epitoco4.png){width="200"}
+
+![](images/Epitoco3.png)
+
+![](images/Epitoco2.png){width="400"}
+
+![](images/Epitoco1.png){width="300"}
+:::
+
+## Reprodução dos Polychaeta - `Epitoquia` {.smaller .scrollable}
+
+<br>
+
+`Epítocos` são os novos indivíduos clones (não funcionais) e `átocos`
+são os indivíduos originais que se irão regenerar.
+
+Os epítocos irão enxamear a coluna d'água, liberando os gametas que
+serão fecundados cruzadamente e morrendo em seguida.
+
+Numa determinada noite de lua cheia, devido aos hormônios e ao
+comprimento do dia, os epítocos irão enxamear a coluna d'água para a
+troca de gametas.
+
+Os epítocos servem de iguaria alimentar aos nativos do pacífico há
+seculos.
+
+## Reprodução dos Polychaeta - `Epitoquia` {.smaller .scrollable}
+
+![](images/EpitoquiaCiclo.png)
+
+## Filme de epitoquia
+
+
+<br>
+
+Filme rápido sobre epitoquia no pacífico.
+
+<br>
+
+<https://www.youtube.com/watch?v=rtd8iu3xjFg&list=PPSV>
+

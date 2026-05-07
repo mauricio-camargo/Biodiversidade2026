@@ -1,0 +1,95 @@
+---
+format: 
+  revealjs: 
+    theme: [serif, MeuCustom.scss]
+    menu: false
+    controls: false #Não é menu. ToDo.
+    auto-slide: 5000
+    loop: true
+---
+
+## Gêneros de poliquetas com nomes de entidades femininas gregas:
+
+<hr>
+
+<br><br>
+
+:::: {.columns}
+::: {.column width="30%"}
+:::
+::: {.column width="54%"}
+Aphrodite  
+Eunice  
+Isolda  
+Eulalia   
+Palola  
+Nereida   
+:::
+::: {.column width="33%"}
+:::
+:::: 
+
+## 
+
+![](images/Alitta-virens-4.jpeg)
+
+##
+
+![](images/apem-dorvillea-rubrovittata-1536x1152.jpg)
+
+##
+
+![](images/Branchiomma_arctica_1-combined.jpeg)
+
+##
+
+![](images/default.png)
+
+##
+
+![](images/Eulalia_viridis_3.jpeg)
+
+##
+
+![](images/hpwo292.jpg)
+
+##
+
+![](images/Myxicola_sp2.jpeg)
+
+##
+
+![](images/Nereis_pelagica-5.jpeg)
+
+##
+
+![](images/OIP.jpeg)
+
+##
+
+![](images/Phyllodoce_citrina-combined.jpeg)
+
+##
+
+![](images/PolyDay.png)
+
+##
+
+![](images/Polynoidae_unidentified.jpeg)
+
+##
+
+![](images/Pterosyllis_finmarchica-1.jpeg)
+
+##
+
+![](images/Serpula-uschakovi-4.jpeg)
+
+##
+
+![](images/Syllidae_unidentified.jpeg)
+
+##
+
+![](images/Terebellidae-Unidentified-combined.jpeg)
+
