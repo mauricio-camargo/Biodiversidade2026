@@ -1,5 +1,5 @@
 ---
-title: Diversidade de invertebrados marinhos 2025
+title: Diversidade de invertebrados marinhos 2026
 subtitle: Prof. Mauricio Camargo
 format: html
 ---
@@ -14,7 +14,7 @@ format: html
 
 [Introdução aos poliquetas](Poliquetas.html)
 
-Introdução aos Bryozoa (Lophophorata)
+[Introdução aos Bryozoa (Lophophorata)](Bryozoa.html)
 
 
 <!--
