@@ -15,11 +15,3 @@ format: html
 [Introdução aos poliquetas](Poliquetas.html)
 
 [Introdução aos Bryozoa (Lophophorata)](Bryozoa.html)
-
-
-<!--
-[Introdução aos poliquetas](Poliquetas.html)
-
-[Introdução aos Bryozoa (Lophophorata)](Bryozoa.html)
--->
-
