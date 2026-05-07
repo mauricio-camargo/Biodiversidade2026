@@ -45,16 +45,16 @@ format:
 :::
 
 ::: {.fragment fragment-index=2}
--  É um trabalho minucioso, mas gratificante.
+-  É um trabalho minucioso, mas gratificante, e muito necessário.
 :::
 
 [^1]: 
 AMORIM, D. S. Fundamentos de sistemática filogenética. Ribeirão Preto: Holos, 2005.
-:::
+
 
 <!------- ############### sd ############### -------->
 
-## O trabalho do taxonomista é na lupa e no microscópio
+## O trabalho do taxonomista de Annelida é na lupa e no microscópio
 ![](images/Lumbrineridae2.png)
 
 
@@ -72,13 +72,14 @@ Falar da sistemática clássica e dos parâmetros morfológicos de Lineu.
 :::
 
 :::box
-"A **taxonomia** descreve a biodiversidade, a **classificação** procura algum tipo de ordem e a **sistemática** apresenta um sistema geral de referência (Amorim, 2005)."
+"RELEMBRANDO: A **taxonomia** descreve a biodiversidade, a **classificação** procura algum tipo de ordem e a **sistemática** apresenta um sistema geral de referência (Amorim, 2005)."
 :::
 
-
-> -   **Taxonomia** descrever, nomear e classificar os seres vivos.  
--   A **classificação** separa os organismos em grupos, baseado num conjunto de *critérios (ou parâmetros)* pré-estabelecidos.
+:::{.fragment}
+> -   **Taxonomia** descreve, nomea e classifica os seres vivos.  
+-   **Classificação** separa os organismos em grupos, baseado num conjunto de *critérios (ou parâmetros)* pré-estabelecidos.
 -   **Sistemática** é um sistema de classificação biológica. Cada sistema de classificação depende dos parâmetros escolhidos, e os parâmetros mudaram ao longo da história.
+:::
 
 :::{.fragment}
 > Lineu criou a sistemática clássica, baseada em parâmetros **morfológicos** para agrupar a hierarquia de táxons (= unidade taxonômica). 
@@ -96,11 +97,7 @@ Até 1789 (rev. franc) - Idade moderna
 Até hoje - Idade Contemporânea
 :::
 
-<br>
-
 > **Parâmetros mudaram ao longo da história**  
-
-<br>
 
 :::: {.columns}
 ::: {.column width="50%"}
@@ -181,6 +178,7 @@ Sistemática clássica de Linneaus
 <!-------################# sd #################-------->
 ## Carolus Linneaus (ou Lineu ou só L.) e o "*Systema naturae*" (1758)  {.smaller}
 
+::: {style="font-size: 0.8em;"}
 As edições da obra de Lineu podem ser encontradas em: <https://www.biodiversitylibrary.org/page/728487#page/1/mode/1up>
 
 - Antes de Lineu:
@@ -195,6 +193,7 @@ As edições da obra de Lineu podem ser encontradas em: <https://www.biodiversit
 
 Ex. *Isolda sepultura* (Garraffoni & Lana, 2003)
 :::
+:::
 
 <!-------################ sd ##############-------->
 ## O sistema hierárquico de classificação de Lineu (original)
@@ -206,10 +205,10 @@ Ex. *Isolda sepultura* (Garraffoni & Lana, 2003)
 
 
 <!-------################ sd ##############-------->
-## Sistema de classificação em zoologia
+## Sistema de classificação zoológica
 
-:::{.notes}
-Em Botânica difere o filo, que vira divisão.
+::: {style="font-size: 0.8em;"}
+Em Botânica (reino Plantae) difere o filo, que vira divisão.
 :::
 
 ![](images/Reino-spp.png)
@@ -224,20 +223,13 @@ Sistemática evolutiva de Darwin
 
 
 <!-------################ sd ##############-------->
-## Darwin & Wallace e a origem das espécies por seleção natural (1858)
+## Darwin & Wallace e a origem das espécies por seleção natural (1858){.smaller}
 
-
-#### Inauguraram a escola da sistemática evolutiva: 
-
-<br>
+Inauguraram a escola da sistemática evolutiva: 
 
 > "Os organismos descendem a partir de ancestrais comuns e o principal agente de mudança é a seleção natural."
 
-<br>
-
 > "Todos os organismos assemelham uns aos outros em graus descendentes, dessa forma eles podem ser classificados em grupos contidos em grupos."
-
-<br>
 
 > "...toda verdadeira classificação é genealógica."
 
@@ -263,6 +255,8 @@ Sistemática evolutiva de Darwin
 <!-------################# sd #################-------->
 ## Homologia é a similaridade devida ao ancentral comum.
 
+<br>
+
 Exemplos:
 
 > - Asas de morcego e pássaros não são homólogas, pois o ancestral comum não possuia asas. As asas evoluíram independentemente.
@@ -272,11 +266,11 @@ Exemplos:
 <!-------################# sd #################-------->
 ## Sistemática evolutiva de Darwin
 
-<br><br><br>
+<br>
 
 > Darwin incorporou na classificação o critério evolutivo de ancestralidade comum entre os taxa.
 
-<br><br>
+<br>
 
 > O critério evolutivo de Darwin substituiu o critério morfologico de Lineu e teve enorme impacto nas árvores de classificação. 
 
@@ -340,48 +334,71 @@ O correto é:
 - Anagênese é o processo que leva à cladogênese.
 
 <!-------################# sd #################-------->
-## Processo de anagênese: especiação *alopátrica*, ocasionada por barreira geográfica (isolamento reprodutivo), como no ístmo do Panamá. {.smaller}
+## Processo de anagênese: 
+
+Especiação *alopátrica*, ocasionada por barreira geográfica (isolamento reprodutivo), como no ístmo do Panamá. 
 
 ![](images/Istmo_Panama.png)
 
 Existe também a especiação *simpátrica*, (mesma pátria), que é um isolamento reprodutivo sem separação geográfica.
 
-## Grupos monofiléticos e polifiléticos 
+## Grupos monofiléticos, parafiléticos e polifiléticos 
 
 ![](images/Monofilet_Polif.png)
 
-## Grupos monofiléticos 
-
-<br>
-
+::: {style="font-size: 0.8em;"}
 > Grupo monofilético é aquele formado por um ancestral e todos os seus descendentes, ou seja, possui um *ancestral comum exclusivo.*
+:::
 
-## Sinapomorfias e plesiomorfias {.smaller}
+## Plesiomorfias e apomorfias {.smaller}
 
--   Sinapomorfia: estado derivado. Define grupo monofilético.
--   Plesiomorfia: estado ancestral. Define espécies que não fazem parte do grupo monofilético.
--   Autapomorfia: estado ancentral a partir de um nó que gerou uma plesiomorfia e uma sinapomorfia. 
-
+::: {style="font-size: 0.76em;"}
+-   Plesiomorfia: estado ancestral de um caráter. Já estava presente em ancestrais e, por isso, não define sozinha um grupo mais recente. Ex: coluna vertebral em mamíferos é plesiomorfia.
+-   Apomorfia: estado derivado de um caráter. É uma característica evolutivamente nova em relação ao estado ancestral. Tipos de apomorfia:
+    -   Sinapomorfia: é uma apomorfia compartilhada por dois ou mais grupos. Define grupo monofilético (provenientes de um ancestral comum) e constrói clados. Ex: Pelos e glândulas mamárias nos mamíferos.
+    -   Autapomorfia: é uma apomorfia exclusiva de um único táxon terminal, mas que não agrupa nada. Ex: bico córneo do ornitorrinco, que é único entre os mamíferos. 
+:::
 
 ![](images/Apom_Plesiom.png)
 
-## Exemplos de sinapomorfia:
+## Exemplos de sinapomorfia: {.smaller}
 
 -   As penas distinguem as aves dos outros vertebrados e por isso é uma sinapomorfia das aves.
+
+:::{.fragment}
 -   Os pêlos nos mamíferos os distinguem dos outros vertebrados.
+:::
+
+:::{.fragment}
 -   A subclasse de insetos Pterygota é definida pela presença de asas. 
+:::
+
+:::{.fragment}
 -   A presença de parapódios em poliquetas é uma sinapomorfia da classe em relação a outros Annelida.
+:::
 
 ## Resumo de cladística {.smaller}
 
 <br>
 
-> - Baseia-se no padrão de ancestralidade comum e modificação das espécies e não em mera similaridade morfológica.
+- Baseia-se no padrão de ancestralidade comum e modificação das espécies e não em mera similaridade morfológica.
+
+:::{.fragment}
 -   Deve usar apenas caracteres derivados (apomórficos) compartilhados (sinapomórficos ou homólogos derivados).
+:::  
+
+:::{.fragment}
 -   Portanto, objetiva traçar a história evolutiva real, o 
 padrão de descendência com modificação.
+:::  
+
+:::{.fragment}
 -   Cada ramo da árvore evolucionária é chamado "clado".
+:::  
+
+:::{.fragment}
 -   O “cladograma” é uma árvore evolucionária que considera apenas homologias que são caracteres derivados compartilhados (sinapomorfias), gerando grupos monofiléticos.
+:::  
 
 
 <!-------################# sd #################-------->
@@ -405,7 +422,7 @@ Tarefa altamente complexa.
 
 ##
 
-![](images/Filogenia_metazoa.png)
+![](Filogenia_Metazoa_Simples.png)
 
 
 ## {background-color="#6b5a59" .smaller}
