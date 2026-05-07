@@ -152,7 +152,7 @@ Celomados
 
 ![](images/Movimentacao2.png)
 
-## Locomoção usando o esqueleto hidrostático: a) poliquetas; b) oliquetas; c) hirudinea. 
+## Locomoção usando o esqueleto hidrostático: a) poliquetas; b) oligoquetas; c) hirudinea. 
 
 ![](images/Movimentacao1.png)
 
@@ -216,14 +216,14 @@ Clitelo está presente em Oligochaeta e Hirudinea (chamos de Clitellata), repres
 
 ![](images/Sistema_Nervoso.png)
 
-## Sistema digestivo
+## Sistema digestório
 
--   O sistema digestivo é formado por um tubo digestivo longitudinal que se estende ao longo do corpo. Começa na boca e termina no ânus. 
+-   O sistema digestório é formado por um tubo digestivo longitudinal que se estende ao longo do corpo. Começa na boca e termina no ânus. 
 -   Não é segmentado.
 -   O alimento é movimentado pelas contrações peristálticas da musculatura corporal.
 - Oligochaeta tem o trato digestivo mais especializado, com boca, faringe, esôfago, papo, moela, intestino e ânus
 
-## Sistema digestivo
+## Sistema digestório
 
 ![](images/Sistema_digest.png)
 
