@@ -25,6 +25,78 @@ format:
 
 ## Filo Annelida{.smaller}
 
+<br>
+
+Divisão clássico pelos grupos:
+
+-  **Oligochaeta**: minhocas terrestres e aquáticas;
+
+-  **Polychaeta**: minhocas marinhas
+
+-  **Hyrudinea**: sangue-suga. 
+
+Características: protostômios, eucelomados e apresentam metameria (segmentação não- especializada); 
+
+
+## Filo Annelida{.smaller}
+
+<br>
+Importância:  
+
+-  **Oligoquetas**: aeração do solo, transporte de nutrientes para camadas mais profundas e como alimento na cadeia trófica florestal;
+-  **Poliquetas**: estabilização do sedimento, alimento para outros invertebrados e peixes e também indicadores do tipo e grau de poluição em determinada área;
+-  **Hirudinea**: aplicações medicinais como sangria por séculos. Recentes descobertas indicam que funcionavam!
+
+
+## Filo Annelida{.smaller}
+
+::: {style="font-size: 0.7em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+
+-  **Polychaeta**  
+Possuem numerosas cerdas, o que dá origem ao nome do grupo;  
+Mm a metros;  
+Parapódios;  
+Dióicos;  
+Região anterior podendo conter numerosos apêndices.  
+
+
+-  **Oligochaeta**  
+Possuem poucas cerdas;  
+Homônomos;  
+Estruturas sensoriais reduzidas;  
+Sem parapódios;  
+Hermafroditas, Clitelo;  
+Região anterior sem apêndices.  
+
+
+-  **Hirudinea**  
+Número fixo de segmentos;  
+Ventosas na região anterior e posterior;  
+Região anterior  modificada para sugar;  
+Sem cerdas e sem parapódios;  
+ Heterônomos;  
+ Clitelo.  
+
+:::
+::: {.column width="50%"}
+
+![](images/poliq1.jpg){width=60% fig-align="center"}
+
+![](images/oligo1.jpg){width=70% fig-align="center"}
+
+![](images/sanguesuga1.jpg){width=60% fig-align="center"}
+
+:::
+:::
+::::
+
+
+
+## Filo Annelida{.smaller}
+
 -   A **sinapomorfia** que define o grupo dos Annelida em relação aos filos anteriores é o **metamerismo** (segmentação corporal), que foi o primeiro passo para a evolução das articulações dos artrópodos.
 
 -   Devido ao sucesso evolutivo do **metamerismo**, Annelida tem hoje cerca de 16000 espécies (deve chegar a 100 mil) que invadiram todos os habitats onde existe algum grau de umidade.
@@ -136,7 +208,7 @@ Clitelo está presente em Oligochaeta e Hirudinea (chamos de Clitellata), repres
 
 -   O sistema nervoso dos anelídeos é formado por um cordão nervoso ventral e um "cérebro", que é somente uma agregação de tecido nervoso na região anterior.
 -   Poliquetas possuem olhos, mas não produzem imagens, apenas reagem às alterações de luminosidade.
--    Diversos quimiorreceptores estão espalhados pelo corpo dos anelídeos.
+-   Diversos quimiorreceptores estão espalhados pelo corpo dos anelídeos.
 -   Gânglios se repetem em cada segmento.
 
 
