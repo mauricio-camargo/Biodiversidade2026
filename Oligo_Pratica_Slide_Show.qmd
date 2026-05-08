@@ -1,0 +1,29 @@
+---
+format: 
+  revealjs: 
+    theme: [serif, MeuCustom.scss]
+    menu: false
+    controls: false #Não é menu. ToDo.
+    auto-slide: 5000
+    loop: true
+---
+
+## 
+
+![](images/oligo_prat1.png)
+
+##
+
+![](images/oligo_prat2.png)
+
+##
+
+![](images/oligo_prat3.png)
+
+##
+
+![](images/oligo_prat4.png)
+
+##
+
+![](images/oligo_prat5.png)
