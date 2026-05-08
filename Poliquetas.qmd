@@ -32,15 +32,17 @@ editor:
 <br><br><br> Revisão da filogenia dos Metazoa
 :::
 
-##  {.scrollable}
+##  
 
-![](images/Filogenia2020.png){width="800" height="800"}
+:::: {.columns}
+::: {.column width="50%"}
 
-## Notas sobre a filogenia dos Metazoa {.scrollable .smaller}
 
-::: {.incremental}
+![](images/Filogenia2020.png)
+:::
+::: {.column width="50%"}
 
-<hr>
+::: {style="font-size: 0.55em;"} 
 
 -   Esta árvore é bastante recente (2020).\
 -   `Ctenophora` e `Porifera` não são eumetazoa, e junto com `Placozoa`
@@ -59,10 +61,11 @@ editor:
 -   `Lophophorata` reúne os filos com lofóforo, que é uma estrutura em
     forma de anel ao redor da boca que serve para alimentação.
 
+
 :::
-
-
-<br>
+:::
+:::
+::::
 
 ## 
 
