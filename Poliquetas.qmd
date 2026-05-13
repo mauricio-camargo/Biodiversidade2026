@@ -37,7 +37,6 @@ editor:
 :::: {.columns}
 ::: {.column width="50%"}
 
-
 ![](images/Filogenia2020.png)
 :::
 ::: {.column width="50%"}
