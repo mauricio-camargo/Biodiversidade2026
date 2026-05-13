@@ -18,12 +18,14 @@ format:
 ::: {.column width="30%"}
 :::
 ::: {.column width="54%"}
-Aphrodite  
 Eunice  
+Aphrodite  
 Isolda  
 Eulalia   
 Palola  
 Nereida   
+Ophelia   
+Myriana   
 :::
 ::: {.column width="33%"}
 :::
