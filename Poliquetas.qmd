@@ -2,7 +2,7 @@
 title: "Anelídeos Poliquetas"
 institute: "Prof. Maurício Garcia de Camargo"
 author: "Disciplina: Biodiversidade de Invertebrados Marinhos - IO-FURG"
-date: 2026-05-07
+date: 2026-05-14
 #date: "`r Sys.Date()`" #Para funcionar tem que ter o `r Sys.Date()` em qualquer lugar do corpo (atualmente está no footer do primeiro slide)
 lang: pt-br
 title-slide-attributes:
@@ -31,6 +31,7 @@ editor:
 ::: r-fit-text
 <br><br><br> Revisão da filogenia dos Metazoa
 :::
+
 
 ##  
 
@@ -69,58 +70,85 @@ editor:
 ## 
 
 ::: r-fit-text
-<br><br> Filogenia de Annelida
+<br><br> Filogenia do filo Annelida
 :::
 
+## 
 
-## Filogenia do Filo Annelida {.smaller}
+<!-- 
+- Isso aqui produz layouts muito mais fáceis:
+::: {layout="[[1,1], [1,1]]"}  Grid 2x2
+::: {layout="[[1], [1,1]]"}  Grid 1 linha e 2 colunas abaixo
+- Veja exemplo mais abaixo
+-->
 
-<br>
+:::: {.columns}
+::: {.column width="50%"}
 
-Historicamente, o filo Annelida continha três classes:
+![](images/PolyTreeClassica.png)
+
+:::
+::: {.column width="50%"}
+
+::: {style="font-size: 0.75em;"} 
+
+**Árvore clássica para o filo Annelida:**
 
 <br>
 
 -   Filo Annelida
     -   Classe Polychaeta
-    -   Classe Olygochaeta
-    -   Classe Hirudinea
+    -   Classe Clitellata
+        -   Sub-classe Olygochaeta
+        -   Sub-classe Hirudinea
 
-No entanto, Polychaeta era claramente parafilético pois alguns filos
-separados tinham muita afinidade com algumas de suas famílias, e por
-isso foram incorporados aos Annelida.
+:::
+:::
+::::
 
-##  {.scrollable}
+##  
 
-![](images/FiloAnnelida.png){width="600" height="800"}
+:::: {.columns}
+::: {.column width="50%"}
 
-## Notas sobre a filogenia dos Annelida
+![](images/FiloAnnelida.png)
+
+:::
+::: {.column width="50%"}
+
+::: {style="font-size: 0.70em;"} 
+
+
+**Árvore moderna para o filo Annelida:**
 
 <br>
 
-Os seguintes filos foram incorporados aos Annelida:
-
--   Siboglinidae (antigo filo Pogonophora)
--   Echiurida
--   Sipunculida.
+Polychaeta possuia muita afinidade com alguns filos diferentes de Annelida sendo, portanto, parafilético, e saiu da classificação de Annelida.  
+Esses novos filos incorporados a Annelida foram:  
+-   Siboglinidae (antigo filo Pogonophora)  
+-   Echiurida  
+-   Sipunculida.  
 
 <br>
 
-A classificação dos Polychaeta em `Sedentaria` e `Errantia` foi
-ressucitada.
+A classificação dos Polychaeta em `Sedentaria` e `Errantia` foi ressucitada.
 
-## Notas sobre a filogenia dos Annelida
+:::
+:::
+::::
+
+## Filogenia moderna de Annelida
 
 <br>
 
 ::: {layout="[[1,1], [1,1]]"}
 
-Biologia molecular revelou que Clitellata (Oligochaeta e Hirudines) são derivados da classe Polychaeta.
+Biologia molecular revelou que Clitellata (Oligochaeta e Hirudines) são derivados da antiga classe Polychaeta.
 
 ![](images/FiloAnnelida2.png)
 :::
 
-A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente foi perdida nos Clitellata.
+A sinapomorfia dos Annelida são os `parapódios`, que posteriormente foi perdida nos Clitellata.
 
 ## 
 
@@ -133,16 +161,13 @@ A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente foi perd
 ::: {.incremental}
 
 -   *Poly* = muito ; *Chaeta* = Cerdas. 
--   Em português é poliqueta, masculino. Em espanhol é poliqueto.
+-   Em português é "um" poliqueta, no masculino. Em espanhol se fala "poliqueto".
 -   Sinapomorfia de Polychaeta: `Parapódios` (há 500 milhões de anos!).
 -   Enorme sucesso em ambientes marinhos bênticos. Poucos pelágicos.
--   Quase sempre euhalinos, poucos oligohalinos e raros tolerantes a
-    água doce;
--   10 a 12 mil espécies, do entremarés ao abissal, de mm a 3 metros
-    (*Eunice*).
--   Muitas espécies vivem em "fumarolas" (Hydrothermal vents ou chaminés
-    hidrotermais) com temperaturas maiores que 65^o^C.
--   Outras espécies vivem em infiltrações frias (Cold seeps).
+-   Quase sempre euhalinos, poucos oligohalinos e raros tolerantes a água doce;
+-   10 a 12 mil espécies, do entremarés ao abissal, de mm a 3 metros (*Eunice*).
+-   Muitas espécies vivem em "fumarolas" (Hydrothermal vents ou chaminés hidrotermais) com temperaturas maiores que 65^o^C.
+-   Outras espécies vivem em infiltrações frias ("Cold seeps").
 
 :::
 
@@ -152,13 +177,10 @@ A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente foi perd
 
 -   Poliquetas são numericamente dominante em muitos ambientes, chegando a 75% da produção secundária de muitos ambientes.
 -   Modo de vida livre (exceto Spionidae em ostras)
--   Vivem isolados, exceto alguns Serpulida que são coloniais e
-    constroem estruturas conhecidas como recifes de areia.
+-   Vivem isolados, exceto alguns Serpulida que são coloniais e constroem estruturas conhecidas como recifes de areia.
 -   Enorme diversidade estrutural e de estilo de vida.
--   Poliquetas apresentam a maior diferenciação da estrutura corporal
-    entre os invertebrados.
--   Poliquetas são cultivados para alimentação em aquicultura em
-    sistemas extensivos e semi-extensivos.
+-   Poliquetas apresentam a maior diferenciação da estrutura corporal entre os invertebrados.
+-   Poliquetas são cultivados para alimentação em aquicultura em sistemas extensivos e semi-extensivos.
 
 :::
 
@@ -167,8 +189,7 @@ A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente foi perd
 ::: {.incremental}
 
 -   Algumas espécies são usadas como iscas comerciais para pesca.
--   Poliquetas bioincrustantes em madeira e conchas de bivalves de
-    cultivo podem causar prejuízos.
+-   Poliquetas bioincrustantes em madeira e conchas de bivalves de cultivo podem causar prejuízos.
 -   Servem como indicadores do grau de poluição em determinadas áreas.
 -   Papel funcional semelhante ao dos oligoquetas no ambiente terreste:
     -   Estabilização do sedimento;
@@ -264,11 +285,9 @@ Sedentaria brânquias ![](images/BranquiasEnterrado.png)
 ![](images/SetasTipos.png)
 :::
 
-## Ordens da Classe Polychaeta {.scrollable .smaller}
+## Ordens da Classe Polychaeta {.smaller}
 
-::: aside
-Esta classificação havia morrido e foi ressucistada recentemente.
-:::
+*Esta classificação havia morrido e foi ressucistada recentemente.*
 
 -   **Ordem Errantia**
 
@@ -283,8 +302,7 @@ Esta classificação havia morrido e foi ressucistada recentemente.
     -   Corpo dividido em duas ou mais regiões (heterônomo);
     -   Parapódios reduzidos com pregas simples contendo placas (uncini)
         para fixação no sedimento;
-    -   São tubículas ou escavadores fixos. Normalmente são detritívoros
-        ou suspensívoros.
+    -   São tubículas ou escavadores fixos. Normalmente são detritívoros ou suspensívoros.
 
 ## Ordem Errantia {.smaller .scrollable}
 

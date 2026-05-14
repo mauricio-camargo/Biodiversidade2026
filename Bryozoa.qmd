@@ -6,7 +6,7 @@
 title: "Introdução aos Bryozoa (Lophophorata)"
 institute: "Prof. Maurício Garcia de Camargo"
 author: "Disciplina: Biodiversidade de Invertebrados Marinhos - IO-FURG"
-date: 2026-05-07
+date: 2026-05-14
 #date: "`r Sys.Date()`" #Para funcionar tem que ter o `r Sys.Date()` em qualquer lugar do corpo (atualmente está no footer do primeiro slide)
 lang: pt-br
 title-slide-attributes:
@@ -39,17 +39,19 @@ O clado Lophophorata inclui os filos:
 
 -   Entoprocta: ânus interno à corôa de tentáculos.
 
--   Brachiopoda
+-   Brachiopoda e Phoronida: muitos registros fósseis.
 
--   Phoronida
+::: {.incremental}
 
--   Muitos são coloniais
+-   Muitos são coloniais.
 
--   Às vezes parecem plantas ou corais
+-  Às vezes parecem plantas ou corais.
 
--   São bentônicos e filtradores.
+-  São bentônicos e filtradores.
 
-A sinapomorfia do grupo é a presença de **lofóforo**.
+-  A sinapomorfia do grupo é a presença de **lofóforo**.
+
+::: 
 
 ## Lofóforo {.smaller}
 
@@ -57,10 +59,6 @@ A sinapomorfia do grupo é a presença de **lofóforo**.
 -   Os tentáculos possuem cílios que provocam uma corrente de água que leva partículas nutritivas para a boca e participam das trocas gasosas.
 
 ![](images/Lofoforo.jpg){fig-align="\"center"}
-
-## Principais filos de Lophophorata
-
-![](images/Lopho3filos.png)
 
 ## Filo Bryozoa (colonial)
 
@@ -86,11 +84,15 @@ A sinapomorfia do grupo é a presença de **lofóforo**.
 
 <br>
 
+::: {.incremental}
+
 -   Briozoários se fixam em substratos duros, como pedras e conchas, a partir da larva **cifonauta**, em ambiente de água doce e marinho.
 -   Cerca de 8 mil espécies.
 -   Colônias de briozoários servem de abrigo e são fonte de alimento para muitos organismos.
 -   Briozoários são importantes bioincrustadores, atacando estruturas de concreto e madeira.
 -   São filtradores não seletivos (fito + zooplâncton) e podem fixar carbono atmosférico.
+
+:::
 
 ## Reprodução
 
@@ -100,17 +102,21 @@ São hermafroditas, que se reproduzem de maneira sexual e assexuada, com fertili
 
 ## Sistemas de Bryozoa {.smaller}
 
--   Sistema digestivo É o sistema mais completo dos briozoários, ocupando praticamente todo o interior do corpo do animal, em forma de tubo em U. Composto por boca, que se abre no centro do lóforo, faringe e esôfago muito curto, que se abre para o estômago.
+-   Sistema digestivo - É o sistema mais completo dos briozoários, ocupando praticamente todo o interior do corpo do animal, em forma de tubo em U. Composto por boca, que se abre no centro do lóforo, faringe e esôfago muito curto, que se abre para o estômago.
 
 ![](images/Lofoforo.jpg){fig-align="\"center"}
 
 ## Sistemas de Bryozoa {.smaller}
+
+::: {.incremental}
 
 -   Sistema nervoso Muito rudimentar. Consiste em um único nó nervoso localizado acima do esôfago e conectado a um anel que se estende ao redor da faringe. Desse gânglio, emergem fibras nervosas que são distribuídas por todo o corpo do animal.
 
 -   Nutrição Os briozoários são suspensivos, se alimentando das partículas em suspensão na água (fito e zooplâncton).
 
 -   O lofóforo é responsável por redirecionar os fluxos de água para a boca do animal. O muco secretado pelos tentáculos dos lofóforos contribui e facilita a alimentação, capturando os alimentos e os movem para a boca.
+
+:::
 
 ## Bryozoa da praia do Cassino
 
